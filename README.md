@@ -1,2 +1,2 @@
 # python-string-count
-A Python program to count words in a text
+This is a Python program to count words in a text, and store as a dictionary.
